@@ -351,7 +351,7 @@ El mensaje de error proporciona la razón y la ubicación del error. El código 
   )}
 ```
 
-El mensaje de error es
+El mensaje de error es:
 
 ```bash
 Cannot read properties of null (reading 'map')
